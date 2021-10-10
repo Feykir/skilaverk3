@@ -12,4 +12,6 @@ void main(List<String> arguments) {
 
   }
   print('Total digits: $digit');
+  //Veit ekki afhverju en forritið byrjar alltaf að telja frá 323, en ef ég slæ inn 0 þá kemur 0 :S
+  //Fyrir utan að það byrjar að telja frá 323 þá virkar allt eðlilega, ég prufaði að slá inn 10 tölur og endaði á 333
 }
